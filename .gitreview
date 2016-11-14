@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.ericsson.se
+port=29418
+project=cee/openstack/devstack-extreme
+defaultbranch=master
